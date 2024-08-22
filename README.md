@@ -40,7 +40,7 @@ Actually... lets just remove them completely.
 </div>  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/SMYZScqtY4wcF5D/download" height="25" />  
+  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/claracrazy_gh_banner/download" height="25" />  
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -172,7 +172,7 @@ Aaaaaand thats it. Vewy nice
 -->  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/SMYZScqtY4wcF5D/download" height="25" />  
+  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/claracrazy_gh_banner/download" height="25" />  
 </div>
 <div align="center">
   <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine</p>

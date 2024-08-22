@@ -154,7 +154,7 @@ Gotta love some stats
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C&rank=-B" width="786">
 </p>
 
 <div align="center">

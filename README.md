@@ -55,8 +55,8 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👩 I'm a `23` year old female
-- 🔭 I’m currently working on [Sluthub](https://github.com/Sluthub) and [48hr.email](https://github.com/Crazyco-xyz/48hr.email)
-- 🌱 I’m currently learning `C`
+- 🔭 I’m currently working on [48hr.email](https://github.com/Crazyco-xyz/48hr.email), and my mental health
+- 🌱 I’m currently learning `C` <!-- and `how to be a good wife` -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
@@ -129,6 +129,9 @@ Pwease support me >.<
 
 <p>Since I work full-time on open-source projects spread across my organizations, my only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
+**Multilink:**
+- Blockchain profile: [Claracrazy.eth](https://profile.crazyco.xyz)<br>
+
 **Crypto:**
 - **XMR**: `42xc4qPZyfi4wzAkCBXSoMSo3BLDS8946J89JXDqtT5gRj6uYpfhjQF12NLPMxtqGDL2RxoWXjB73iYdBP8DX7SqGvdbdtb`<br>
 - **USDT (TRX20):** `TWg6VDUBase3HDA6RxAwTVjQw4SbxoGyqZ`<br>
@@ -139,7 +142,7 @@ Pwease support me >.<
 **Fiat:**
 - **[Patreon](https://patreon.com/crazyco) (Fee: 8%\*)**: ❤️ Account needed, subscription with perks
 - **[ko-fi](https://ko-fi.com/crazyco) (Fee: 2%\*)**: No account needed, subscription or one-time donation
-- **[Wire-transfer](https://bunq.me/ClaraK) (Fee: 0%\*)**: No account needed, one-time donation
+- **[Wire-transfer](https://bunq.me/ClaraCrazy) (Fee: 0%\*)**: No account needed, one-time donation
 - **[Paypal](https://paypal.me/ClaraCrazy)\*\* (Fee: 2%\*)**: Account needed, one-time donation
 
 \* Fee is calculated by how much I will lose when cashing out<br>
@@ -161,7 +164,7 @@ Gotta love some stats
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C&rank=-B" width="786">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-B" width="786">
 </p>
 
 <div align="center">

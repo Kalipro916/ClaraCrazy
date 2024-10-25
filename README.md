@@ -134,8 +134,8 @@ Pwease support me >.<
 
 **Crypto:**
 - **XMR**: `42xc4qPZyfi4wzAkCBXSoMSo3BLDS8946J89JXDqtT5gRj6uYpfhjQF12NLPMxtqGDL2RxoWXjB73iYdBP8DX7SqGvdbdtb`<br>
-- **USDT (TRX20):** `TWg6VDUBase3HDA6RxAwTVjQw4SbxoGyqZ`<br>
-- **USDT (ERC20):** `0x841251438A8Fb2B16298C15B10feA9Fd2cEA3405`<br>
+- **TRON (TRX20 Coins):** `TWg6VDUBase3HDA6RxAwTVjQw4SbxoGyqZ`<br>
+- **ETH (ERC20 Coins):** `0x841251438A8Fb2B16298C15B10feA9Fd2cEA3405`<br>
 - **Doge:** `DCKAFtgw6686uEMaFzZfCtUajS9VjPJLMm`<br>
 - **BTC:** `bc1qje8qy7gpudm8hhyx43n9xndg7d8xj5f7dh6m4p`<br>
 

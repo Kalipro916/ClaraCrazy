@@ -1,4 +1,4 @@
-[![My-banner](https://user-images.githubusercontent.com/55334727/232865412-df3e184b-0b02-4e11-b319-57c595a3c01b.png)](https://cynthialabs.net)
+[![My-banner](https://github.com/user-attachments/assets/0315210c-82bb-4777-a5d4-b6737a549852)](https://crazyco.xyz)
 
 <!--
 Welcome to my readme source! Glad you made it here. This was a lot of "fun" to write haha. 
